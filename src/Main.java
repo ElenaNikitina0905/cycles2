@@ -29,6 +29,7 @@ public class Main {
         // 3
         int population = 12_000_000;
         int year = 1;
+
         do {
             int birthRate = population / 1000 * 17;
             int mortality = population / 1000 * 8;
